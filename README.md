@@ -2,7 +2,7 @@
 Site pour un restaurant indien
 
 
-DESCRIPTION
+# DESCRIPTION
 Le site est pour le restaurant (fictif) « Le Petit Bombay » qui est un restaurant INDIEN.
 Le projet à été imposé en classe et était de faire un site de restauration
 Voici quelques photos du site : https://github.com/Mabiance/Restaurant/blob/master/acceuil.png
@@ -10,7 +10,7 @@ https://github.com/Mabiance/Restaurant/blob/master/menus.png
 https://github.com/Mabiance/Restaurant/blob/master/contact.png
                                
 
-FONCTIONALITE
+# FONCTIONALITE
 
 Les utilisateurs ni connectés ni inscrit ont accès aux pages (onglets de navbar) suivantes :
  
@@ -27,7 +27,7 @@ En revanche, une fois identifié l’utilisateur peut :
 -Un forum où il peut visualiser les commentaires des clients et à la possibilité d’en laisser.
 -Pour finir le fameux onglet déconnexion avec le petit message qui laisse une chance à l’utilisateur de dire « non » s’il s’est trompé d’onglet en cliquant de manière maladroite.
 
-A OPTIMISER
+# A OPTIMISER
 -design
 -reservation
 -espace commentaire
